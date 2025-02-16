@@ -1,0 +1,2 @@
+pyscreenshot==2.2
+pillow==8.0.1
